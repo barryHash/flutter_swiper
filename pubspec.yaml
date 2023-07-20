@@ -10,7 +10,7 @@ dependencies:
 
   transformer_page_view: 
     git: https://github.com/barryHash/transformer_page_view.git
-  flutter_page_indicator: 
+  flutter_page_indicators: 
     git: https://github.com/barryHash/flutter_page_indicators.git
 
 environment:
